@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">A02_Layout</string>
+    <string name="title">코로나 상황실</string>
+    <string name="korea">국내현황</string>
+    <string name="world">세계현황</string>
+    <string name="patient">확진환자</string>
+   <!--국내현황-->
+    <string name="patient_no">87,681</string>
+    <string name="patient_diff">357▲</string>
+    <string name="death">사망자</string>
+    <string name="death_no">1,573</string>
+    <string name="death_diff">11▲</string>
+
+    <string name="daily">일별신규확인자수</string>
+    <!--세계현황-->
+    <string name="patientw_no">118,031,420</string>
+    <string name="patientw_diff">474,669▲</string>
+    <string name="deathw_no">2,619,804</string>
+    <string name="deathw_diff">9,674▲</string>
+
+    <string name="symptom">발열, 권태감, 기침, 호흡곤란 및 폐렴 등 경증에서 중증까지 다양한 호흡기감염증이 나타남. 그 외 가래, 인후통, 두통, 객혈과 오심, 설사 등도 나타남.</string>
+    <string name="daily_info">국내 : 391    해외 : 25    합계 : 416</string>
+    <string name="level">거리두기 단계</string>
+    <string name="level_info">수도권 2단계\비수도권 1.5단계</string>
+
+
+
+
+
+</resources>

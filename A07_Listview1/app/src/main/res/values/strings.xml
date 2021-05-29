@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">A07_Listview1</string>
+    <string-array name="list_data">
+        <item>list1</item>
+        <item>list2</item>
+        <item>list3</item>
+        <item>list4</item>
+        <item>list5</item>
+        <item>list6</item>
+        <item>list7</item>
+        <item>list8</item>
+        <item>list9</item>
+        <item>list10</item>
+        <item>list11</item>
+        <item>list12</item>
+        <item>list13</item>
+        <item>list14</item>
+        <item>list15</item>
+        <item>list16</item>
+        <item>list17</item>
+        <item>list18</item>
+        <item>list19</item>
+        <item>list20</item>
+    </string-array>
+</resources>

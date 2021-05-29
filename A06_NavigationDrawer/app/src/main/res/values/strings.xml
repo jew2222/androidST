@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">A06_NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="LMS">원격강의시스템</string>
+    <string name="saproject">스마트앱프로젝트</string>
+    <string name="home">동양미래대 홈</string>
+    <string name="ncs">역량관리(구 NCS)</string>
+    <string name="lib">전자도서관</string>
+    <string name="homeu">https://www.dongyang.ac.kr/</string>
+    <string name="ncsu">https://ncs.dongyang.ac.kr/</string>
+    <string name="libu">https://lib.dongyang.ac.kr/</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

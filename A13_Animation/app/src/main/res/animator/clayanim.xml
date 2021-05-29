@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="together"> <!--동시에-->
+    <objectAnimator
+        android:propertyName="translationX"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:duration="3000"
+        android:repeatCount="4"
+        android:valueType="floatType"
+        android:valueFrom="-200"
+        android:valueTo="1900"/>
+    <objectAnimator
+        android:propertyName="rotation"
+        android:duration="3000"
+        android:repeatCount="4"
+        android:valueType="floatType"
+        android:valueFrom="0"
+        android:valueTo="1080"/>
+        <!--리핏:5번   화면에서 벗어나도록1900    -->
+</set>

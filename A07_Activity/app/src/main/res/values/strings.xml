@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">A07_Activity</string>
+    <string name="title">코로나 집콕 도와줘!!</string>
+    <string name="interpark">쇼핑 덕질</string>
+    <string name="youtube">심심풀이 영상한편</string>
+    <string name="facebook">쇼셜 덕질</string>
+    <string name="naver_comic">그림이 보고플 때</string>
+    <string name="interpark_msg">쇼핑해 볼까?</string>
+    <string name="youtube_msg">핫한 영상 궁금!</string>
+    <string name="facebook_msg">친구들은 뭐하나?</string>
+    <string name="naver_comic_msg">아무 생각없이 정주행!!</string>
+
+    <string name="title_interpark">최근 관심 상품</string>
+    <string name="title_naver">최근 관심 웹툰</string>
+    <string name="img1_1">미마마스크 KF94\n가격:990원</string>
+    <string name="img1_2">어린이 마스크 36매\n가격: 36000원</string>
+    <string name="img1_3">데일리 마스크 Kf94\n가격: 1400원</string>
+    <string name="img2_1">여신강림(야옹이)\n평점: 9.67</string>
+    <string name="img2_2">1초(시니/광운)\n평점: 9.98</string>
+    <string name="img2_3">재혼황후(숨풀)\n평점: 9.97</string>
+</resources>
