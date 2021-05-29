@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">A06_Event2</string>
-    <string name="title">사칙연산기</string>
-    <string name="result">결과</string>
-    <string name="clear">CLEAR</string>
-</resources>

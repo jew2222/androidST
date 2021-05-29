@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "A13_Animation"
