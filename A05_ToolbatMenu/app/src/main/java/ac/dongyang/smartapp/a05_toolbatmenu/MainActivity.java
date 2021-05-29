@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             return true;
         }
         else if(id==R.id.action_sms){
-            Intent intent = new Intent(Intent.ACTION_SENDTO,Uri.parse("smsto:01037257248"));
+            Intent intent = new Intent(Intent.ACTION_SENDTO,Uri.parse("smsto:010000000"));
             startActivity(intent);
             return true;
         }
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
     //메뉴항목 하나에 두개의 처리기지만 충돌안함, 온클릭만이 우선적으로 처리됩니다
     public void onClickMenuInfo(MenuItem item){
-        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:01037257248"));
+        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:01000000000"));
         startActivity(intent);
     }
 
