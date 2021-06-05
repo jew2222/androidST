@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="@color/colorAccent" android:endColor="#fff"/>
+
+    <!--색상오류가 나면 스타트 컬러를 바꾸기-->
+</shape>

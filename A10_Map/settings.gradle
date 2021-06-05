@@ -1,0 +1,2 @@
+rootProject.name = "A10_Map"
+include ':app'

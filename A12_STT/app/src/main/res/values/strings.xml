@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A12_STT</string>
+
+
+
+    <!--<uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+
+    안녕하세요. DMU 아파트 주민여러분. 관리사무소에서 잠시 안내말씀드리겠습니다.
+
+    ko-kr-x-ism#male_2-local-->
+    
+</resources>
