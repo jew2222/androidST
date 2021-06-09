@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                         sBuf.append(sLine);
                     }
 
-                      //열어둔 통로 닫기
+                    //열어둔 통로 닫기
                     bufReader.close();
                     inputStreamReader.close();
                     bufStream.close();
@@ -78,9 +78,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             protected void thenDoUiRelatedWork(String s) { //위 메소드의 반환값으로 json 파싱해 추출함
 
-            if (s==null)
-                return;
-            JsonObject jsonObject = (JsonObject)JsonParser.parseString(s);//((제이슨오브젝트)엘리먼트) 반환
+                if (s==null)
+                    return;
+                JsonObject jsonObject = (JsonObject)JsonParser.parseString(s);//((제이슨오브젝트)엘리먼트) 반환
                 //오브젝트 > 엘리먼트ss
                 JsonArray centers = (JsonArray)jsonObject.get("data"); //((제이슨어레이)엘리먼트) 반환
 
@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                     JsonElement jCenterName = center.get("centerName");
                     JsonElement jLat = center.get("lat");
                     JsonElement jLng = center.get("lng");
-                   //엘리멘트에서 값을 읽어 사용
+                    //엘리멘트에서 값을 읽어 사용
                     String address =jAddress.getAsString();
                     String facilityName =jFacilityName.getAsString();
                     String centerName =jCenterName.getAsString();
